@@ -7,3 +7,6 @@ Django is a slave in the South of the United States of 1858. As he meets Dr. Kin
 * Badass
 
 > I like the way you die boy.
+
+<img src="https://p5.focus.de/img/fotos/crop406394/0639636861-cv16_9-w800-h451-oc-q75-p5/Szenenbild-03-1400x984-.jpg"/>
+Copyright focus.de / Sony Pictures
