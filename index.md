@@ -5,3 +5,5 @@ Django is a slave in the South of the United States of 1858. As he meets Dr. Kin
 * Brave
 * Smart
 * Badass
+
+> I like the way you die boy.
